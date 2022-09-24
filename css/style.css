@@ -8,35 +8,49 @@
     flex-direction: row;
 }
 .container{
-    width: 60em;
-    height: 43em;
+    width: 50em;
+    height: 35em;
     margin: 1em;
-    background-color: blueviolet;
+    background-color: rgba(178, 49, 49, 0.854);
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 .first{
-    width: 
-    height: 
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     /* background-color: brown; */
 }
 .imagen {
-    height: 10em;
-    width: 10em;
-    margin: 1em;
+    height: auto;
+    width: auto;
+    max-width: 100px;
+    max-height: 100px;
+    margin: 10px;
     object-fit: cover;
     border: 0.2em solid black;
     box-shadow: 2px 2px 5px #999;
 }
 .second{
-    width:
-    height: 
-    /* background-color:green; */
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: green; */
 }
 .third{
-    width: 
-    height: 
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     /* background-color: grey; */
 }
 
@@ -44,9 +58,8 @@
 
 
 .container1{
-    width: 60em;
-    height: 43em;
-   
+    width: 50em;
+    height: 35em;
     background-color: aqua;
     display: flex;
     justify-content: center;
@@ -54,12 +67,14 @@
     align-items: center;
 }
 .carrito{
-    width: 21em;
-    height: 12em;
-    background-color: aliceblue;
+    position: relative;
+    width: 20em;
+    height: 10em;
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    align-items: center;
+    background-color: green;
+
 }
 .contador{
     width: 21em;
@@ -70,21 +85,39 @@
     flex-direction: column;
     align-items: center;
 }
-/* .imagen1 {
-    height: 19em;
-    width: 19em;
+.imagen1 {
+    height: 10em;
+    width: 10em;
+    /* max-width: 100px;
+    max-height: 100px; */
+    margin: 10px;
     object-fit: cover;
-   
-    
-} */
+    border: 0.2em solid black;
+    box-shadow: 2px 2px 5px #999;
+}
 
 .pum {
     width: 21em;
     height: 12em;
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    background-color: blueviolet;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 1em;
+    /* background-color: blueviolet; */
 
+}
+.button{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1em;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* background-color: aqua; */
+    border-right: 3px;
+    border-style: solid;
+    /* border-radius: 35px; */
 }
