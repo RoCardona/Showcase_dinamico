@@ -33,6 +33,10 @@ let objetos = [
         precio: 2
     },
     {
+        id: "zapatillas",
+        precio: 3
+    },
+    {
         id: "camara",
         precio: 4
     },
