@@ -1,31 +1,41 @@
-.total{
+.total {
+    padding: 0;
+    margin: 0;
+
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    /* background-color: black; */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
 }
-.container{
+
+.container {
     width: 60em;
     height: 55em;
     margin: 1em;
-    background-color:#8a4807 ;
+    background-color: #8a4807;
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
-.first{
+
+.first {
     position: relative;
-    width: 55em;
-    height: 35em;
+    width: 54em;
+    height: 33em;
     margin: 3em;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: whitesmoke;
-} 
+    /* border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px; */
+    border: 5px 5px 5px 5px inset tomato;
+}
+
 .imagen {
     height: auto;
     width: auto;
@@ -33,10 +43,9 @@
     max-height: 100px;
     margin: 10px;
     object-fit: cover;
-    /* border: 0.2em solid black;
-    box-shadow: 2px 2px 5px #999; */
 }
-.second{
+
+.second {
     position: relative;
     width: 55em;
     height: 35em;
@@ -45,8 +54,9 @@
     justify-content: center;
     align-items: center;
     background-color: whitesmoke;
-} 
-.third{
+}
+
+.third {
     position: relative;
     width: 55em;
     height: 35em;
@@ -55,18 +65,19 @@
     justify-content: center;
     align-items: center;
     background-color: whitesmoke;
-} 
-
-
-
-
-
-
-.imagenDisplay{
-    height: 10em;
-    border: 0.2em solid black;
 }
-.container1{
+
+
+
+
+
+
+.imagenDisplay {
+    height: 10em;
+    /* border: 0.2em solid black; */
+}
+
+.container1 {
     width: 45em;
     height: 55em;
     display: flex;
@@ -75,13 +86,15 @@
     flex-direction: column;
     background-color: aquamarine;
 }
-.carritoActual{
+
+.carritoActual {
     height: 17em;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.totalPrice{
+
+.totalPrice {
     height: 3em;
     width: 3em;
     margin: 2em;
@@ -89,39 +102,45 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: blue; */
-   
+
 }
-.pictures{
+
+.pictures {
     height: 20em;
     margin-top: 15em;
 }
-.contenedorItem{
+
+.contenedorItem {
     width: 14em;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size: cover;
+
 }
-.contenedor2{
+
+.contenedor2 {
     position: relative;
     background-color: blue;
     width: 3em;
     height: 3em;
 }
-.button{
-    text-decoration:none;
-font-weight: 600;
-font-size: 20px;
-color:#ffffff;
-padding-top:15px;
-padding-bottom:15px;
-padding-left:40px;
-padding-right:40px;
-background-color:#f2595e;
-border-color: #F69DA1;
-border-width: 3px;
-border-style: solid;
+
+.button {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #f2595e;
+    border-color: #F69DA1;
+    border-width: 3px;
+    border-style: solid;
 }
-.button:hover{
+
+.button:hover {
     background-color: #000000;
 }
