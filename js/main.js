@@ -73,19 +73,6 @@ const drop = (ev) => {
     totalMaleta.innerHTML = `${precioTotal}kg`;
 };
 
-// let precioTotal = 100;
-// let totalPrice = document.getElementById("maleta");
-
-// // const vaciar = () => {
-// //     totalMaleta = 0;
-// //     maleta.innerHTML = `${totalMaleta}`;
-// // };
-
-// const pulsador = () => {
-//     totalMaleta = 0;
-//     totalPrice.innerHTML = `${totalMaleta}`;
-// };
-
 let variableGlobal = 0;
 let carrito = document.getElementById("totalMaleta");
 const vaciar = () => {
