@@ -65,7 +65,7 @@
     justify-content: center;
     align-items: center;
     background-color: white;
-    border: 20px inset 	#CD853F;
+    border: 20px inset #CD853F;
 }
 
 
@@ -75,7 +75,6 @@
 
 .imagenDisplay {
     height: 10em;
-    /* border: 0.2em solid black; */
 }
 
 .container1 {
@@ -85,7 +84,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: aquamarine;
+    background-color: white;
 }
 
 .carritoActual {
