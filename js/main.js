@@ -4,25 +4,25 @@ totalMaleta.innerHTML = `${precioTotal} kg`;
 
 let objetos = [
     {
-        id: "flores",
-        precio: 1
+        id: "bufanda",
+        precio: 2
     },
 
     {
         id: "vestido",
-        precio: 2
+        precio: 1
     },
     {
         id: "chaqueta",
         precio: 3
     },
     {
-        id: "sandalias",
+        id: "botas",
         precio: 2
     },
     {
-        id: "bañador",
-        precio: 3
+        id: "sudadera",
+        precio: 4
     },
     {
         id: "vaquero",

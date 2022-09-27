@@ -12,7 +12,7 @@
 }
 
 .container {
-    width: 60em;
+    width: 65em;
     height: 55em;
     margin: 1em;
     background-color: #8a4807;
@@ -23,7 +23,7 @@
 
 .first {
     position: relative;
-    width: 54em;
+    width: 55em;
     height: 30em;
     margin: 2em;
    margin-top: 5em;
@@ -46,7 +46,7 @@
 
 .second {
     position: relative;
-    width: 54em;
+    width: 55em;
     height: 32em;
     margin: 2em;
     display: flex;
@@ -68,12 +68,8 @@
     border: 20px inset #CD853F;
 }
 
-
-
-
-
-
 .imagenDisplay {
+    max-width: 100%;
     height: 10em;
 }
 
@@ -131,7 +127,7 @@
     height: 2.5em;
     width: 8em;
 
-    background-color: blueviolet;
+    background-color: #8B4513;
 
     color: white;
     font-weight: bold;
@@ -151,6 +147,6 @@
 
     transition: 0.3s;
 
-    background-color: rgb(102, 0, 146);
+    background-color: #CD853F;
 }
 
