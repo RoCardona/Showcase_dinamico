@@ -69,13 +69,15 @@ const drop = (ev) => {
     });
 
     precioTotal += objetoMaleta.precio;
-
+console.log('precio total',precioTotal);
     totalMaleta.innerHTML = `${precioTotal}kg`;
 };
 
-let variableGlobal = 0;
+
 let carrito = document.getElementById("totalMaleta");
 const vaciar = () => {
-    variableGlobal = 0;
-    carrito.innerHTML = `${variableGlobal}`;
-};
+    precioTotal = 0;
+    // console.log('precio vacxiar');
+    carrito.innerHTML = `${precioTotal}`;
+}
+
