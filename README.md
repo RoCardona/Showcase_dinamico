@@ -1,7 +1,7 @@
 # DYNAMIC SHOWCASE
 
 ## Presentación🚀
-Este es el proyecto final del Bootcamp GeekHub iniciación desde cero que he cursado en Urbalab Gandía.
+Este es el proyecto final del Bootcamp GeeksHubs iniciación desde cero que he cursado en Urbalab Gandía.
 
 El proyecto consiste en hacer un Dynamic Showcase, de temática libre en el que los principales requisitos son:
 
@@ -29,7 +29,7 @@ Si le das a borrar, la maleta se vaciará y comenzará el recuento de kg de nuev
 
 ## Agradecimientos 🍻
 
-* Agradecer a Urbalab y GeeksHub por la oportunidad que nos han dado.
+* Agradecer a Urbalab y GeeksHubs por la oportunidad que nos han dado.
 
 * A mis compañeros, pero sobretodo a:
 
