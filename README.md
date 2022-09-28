@@ -1,9 +1,9 @@
-# SHOWCASE DINÁMICO
+# DYNAMIC SHOWCASE
 
 ## Presentación🚀
 Este es el proyecto final del Bootcamp GeekHub iniciación desde cero que he cursado en Urbalab Gandía.
 
-El proyecto consiste en hacer un Dymanic Showcase, de temática libre en el que los principales requisitos son:
+El proyecto consiste en hacer un Dynamic Showcase, de temática libre en el que los principales requisitos son:
 
 * Arrastre de producto a un recipiente que puede ser un carro o lo qué decidas.
 (Uso de Drag & Drop)
