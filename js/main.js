@@ -69,7 +69,7 @@ const drop = (ev) => {
     });
 
     precioTotal += objetoMaleta.precio;
-console.log('precio total',precioTotal);
+    console.log('precio total', precioTotal);
     totalMaleta.innerHTML = `${precioTotal}kg`;
 };
 
@@ -77,7 +77,7 @@ console.log('precio total',precioTotal);
 let carrito = document.getElementById("totalMaleta");
 const vaciar = () => {
     precioTotal = 0;
-    // console.log('precio vacxiar');
+    // console.log('precio vaciar');
     carrito.innerHTML = `${precioTotal}`;
 }
 
