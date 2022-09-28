@@ -30,8 +30,10 @@ En un futuro me gustaría implementar un botón encima de las prendas, para sele
 
 * A mis compañeros, pero sobretodo a:
 
-  https://github.com/carlosnsuner
-  https://github.com/manzanalover
-  https://github.com/OlVeRaS94
+  * https://github.com/carlosnsuner
+  * 
+  * https://github.com/manzanalover
+  * 
+  * https://github.com/OlVeRaS94
 
 Por el equipo que hemos formado, ayudándonos con las diferentes dudas que nos han ido surgiendo.
