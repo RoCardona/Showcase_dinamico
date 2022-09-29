@@ -37,12 +37,4 @@ Si le das a borrar, la maleta se vaciará y comenzará el recuento de kg de nuev
 
 * Agradecer a Urbalab y GeeksHubs por la oportunidad que nos han dado.
 
-* A mis compañeros, pero sobretodo a:
 
-  * https://github.com/carlosnsuner
-  
-  * https://github.com/manzanalover
-  
-  * https://github.com/OlVeRaS94
-
-Por el equipo que hemos formado, ayudándonos con las diferentes dudas que nos han ido surgiendo.

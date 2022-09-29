@@ -29,7 +29,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: ç;
     background-color: white;
     border: 20px inset 	#CD853F;
 }
@@ -116,7 +115,6 @@
 
 .contenedor2 {
     position: relative;
-    background-color: blue;
     width: 3em;
     height: 3em;
 }
